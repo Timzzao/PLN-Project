@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 /res/stanford-corenlp-full-2018-10-05/
+/res/AffectiveText*
